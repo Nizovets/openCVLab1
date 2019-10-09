@@ -3,3 +3,5 @@
 
 # Solution
   Создан MacOs Application который добавляет на камеру "Gray Filter" рисуя поверх фигуры с условия.
+
+![Screenshot](screenshot.png)
